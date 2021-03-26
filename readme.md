@@ -12,9 +12,11 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 ### Reference 
-<img src=“assets/Images/view1.png” raw=true alt=“View1”/>
+file:///Users/moiselle/Desktop/Bootcamp-Homework/Homework-1/Marketier/index.html
 
-<img src=“assets/Images/view2.png” raw=true alt=“View2”/>
+![View 1](assets/images/View1.png?raw=true "View 1")
+
+![View 2](assets/images/View2.png?raw=true "View 2")
 
 ### Technologies & Usage
 This application utilizes:
